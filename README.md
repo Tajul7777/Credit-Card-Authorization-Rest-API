@@ -1,1 +1,1 @@
-# Credt-Card-Authorization-Rest-API
+# Credit-Card-Authorization-Rest-API
